@@ -1,0 +1,18 @@
+.jumbotron {
+    background: blue;
+    color: red;
+}
+
+h3 {
+    background: blue!important;
+    color: red;
+}
+
+.col-lg-12 {
+    background: grey;
+}
+
+body {
+    background: url("../Images/Coast-Starlight-820x480.webp");
+    
+}
